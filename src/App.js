@@ -74,7 +74,7 @@ class App extends Component {
           <table class="table table-hover">
             <thead>
               <tr>
-                <th>Seriel No</th>
+                <th>Serial No</th>
                 <th>Product Name</th>
                 <th>Time</th>
                 <th>Click to Remove</th>
